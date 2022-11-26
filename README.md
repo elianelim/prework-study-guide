@@ -1,4 +1,4 @@
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
 ## Description
 
@@ -8,8 +8,8 @@ Provide a short description explaining the what, why, and how of your project. U
 
 - What was your motivation? To become a future back-end web developer
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.") To learn how developers doing amazing jobs behind the sence.
-- What problem does it solve? 
-- What did you learn? 
+- What problem does it solve? It solves all my curiosity of how back end web development works.
+- What did you learn? I have learned to do some debugging of codes with all the helpful instructions on the Prework Study Guide.
 
 
 
